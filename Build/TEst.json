@@ -3,7 +3,7 @@
 "productName": "SimpleWebAR",
 "productVersion": "0.1",
 "dataUrl": "TEst.data.unityweb",
-"wasmCodeUrl": "TEst.wasm.code.unityweb",
+"wasmCodeUrl": "TEst.wasm",
 "wasmFrameworkUrl": "TEst.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
